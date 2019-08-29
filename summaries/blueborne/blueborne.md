@@ -4,6 +4,10 @@ BlueBorne is a set of vulnerabilities found in various OS implementations of Blu
 
 Info taken from _BlueBorne Technical Whitepaper_
 
+I summarized the brief detection methodology for detection whether single device is vulnerable to any of blueborne vulnerabilities in the diagram below. More information on vulnerabilities can be found further below or in _Blueborne Technical Whitepaper_.
+
+![detection methodology](img/blueborne_methodology.pdf)
+
 ### Linux Kernel RCE
 
 ###### CVE-2017-1000251
