@@ -6,7 +6,9 @@ Info taken from _BlueBorne Technical Whitepaper_
 
 I summarized the brief detection methodology for detection whether single device is vulnerable to any of blueborne vulnerabilities in the diagram below. More information on vulnerabilities can be found further below or in _Blueborne Technical Whitepaper_.
 
-![detection methodology](img/blueborne_methodology.pdf)
+[Detection methodology](img/blueborne_methodology.pdf)
+
+Please note that I omitted vulnerability of Apple devices in this methodology, since it was not exploited.
 
 ### Linux Kernel RCE
 
